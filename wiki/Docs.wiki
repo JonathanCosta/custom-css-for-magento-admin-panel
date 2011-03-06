@@ -3,7 +3,8 @@
 
 = How to best integrate custom.css in Magento =
 
-== One will be tempted to download this custom.css file == and then directly overwrite the custom.css file in the {{{skin/adminhtml/default/default}}} directory. <br />  
+== One will be tempted to download this custom.css file == 
+and then directly overwrite the custom.css file in the {{{skin/adminhtml/default/default}}} directory. <br />  
 Please *resist this urge*, you will regret this later, for it will not survive any updates of Magento. <br />  
 The easiest way to build *_your own custom admin theme module_* in Magento is:
   # Download [http://inchoo.net/author/weiler/ Ivan Weiler’s]  {{{admintheme_example.rar}}} from [http://inchoo.net/ecommerce/magento/custom-admin-theme-in-magento/ inchoo.net]. 
