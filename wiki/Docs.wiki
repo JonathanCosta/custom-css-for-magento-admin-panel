@@ -12,5 +12,7 @@ The easiest way to build *_your own custom admin theme module_* in Magento is:
 == Extra options == 
   * Create an images folder in *_your-theme_* folder. For the {{{custom.css}}} stylesheet I did change some of the default UI icons with others. They are from an iconset named [http://p.yusukekamiyamane.com/ Fugue icons], and made by Yusuke Kamiyamane: exceptionally well-thought-out and crafted icons.
   * [http://www.fontsquirrel.com/fonts/Luxi-Sans Luxi-Sans@fontface kit can be downloaded at fontsquirrel]
+
+=== Details ===
   * Current and first version: 0.1 - _March 2011_
 by [http://www.atelierbramdehaan.nl/ Atelier Bram de Haan]
