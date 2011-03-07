@@ -1,6 +1,6 @@
-#summary The correct way to integrate _custom.css_ in Magento.
+#summary The correct way to integrate custom.css in Magento.
 #labels Featured
-= How to best integrate custom.css in Magento =
+= How to best integrate _custom.css_ in Magento =
 One can easily be tempted to download this custom.css file and then directly overwrite the custom.css file in the {{{skin/adminhtml/default/default}}} directory. <br />  
 Please *resist this urge*, you will regret this later, for it will not survive any updates of Magento. <br />  
 The easiest way to build *_your own custom admin theme module_* in Magento is:
