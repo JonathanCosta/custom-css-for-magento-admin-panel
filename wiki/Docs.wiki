@@ -1,4 +1,4 @@
-#summary The correct way to integrate custom.css in Magento.
+#summary The right way to integrate custom.css in Magento.
 #labels Featured
 = How to best integrate {{{custom.css}}} in Magento =
 One can easily be tempted to download this {{{custom.css}}} file and then directly overwrite the custom.css file in the {{{skin/adminhtml/default/default}}} directory. <br />  
@@ -10,8 +10,8 @@ The easiest way to build *_your own custom admin theme module_* in Magento is:
   # Rename the {{{custom-0.1.css}}} file to {{{custom.css}}}, and copy the file to the *_your-theme_* folder; the one that you just created.
   # When done correctly a “Admin Theme” option will appear in Magento Admin Panel -> System -> Configuration -> General -> Design (Default Config scope). Just fill in the name of your theme there.
 == Extra options == 
-  * Create an images folder in *_your-theme_* folder. For the {{{custom.css}}} stylesheet I replaced some of the default UI icons with some fresher looking ones. They're from an iconset named [http://p.yusukekamiyamane.com/ Fugue icons], and made by Yusuke Kamiyamane: exceptionally well-thought-out and craftily executed icons.
-  * [http://www.fontsquirrel.com/fonts/Luxi-Sans Luxi-Sans@fontface kit can be downloaded at fontsquirrel]
+  * Create an *images folder* in *_your-theme_* folder. For the {{{custom.css}}} stylesheet I replaced some of the default UI icons with some fresher looking ones. They're from an iconset named [http://p.yusukekamiyamane.com/ Fugue icons], and made by Yusuke Kamiyamane: exceptionally well-thought-out and craftily executed icons.
+  * Create a *type folder* in *_your-theme_* folder. The [http://www.fontsquirrel.com/fonts/Luxi-Sans Luxi-Sans@fontface kit] that is referred to in the stylesheet can be downloaded at fontsquirrel.
 
 === Details ===
   * Current and first version: 0.1 - _March 2011_
