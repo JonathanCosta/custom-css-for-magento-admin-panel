@@ -1,4 +1,4 @@
-#summary The correct way to integrate custom.css in Magento.
+#summary The correct way to integrate _custom.css_ in Magento.
 #labels Featured
 = How to best integrate custom.css in Magento =
 One can easily be tempted to download this custom.css file and then directly overwrite the custom.css file in the {{{skin/adminhtml/default/default}}} directory. <br />  
@@ -12,5 +12,5 @@ The easiest way to build *_your own custom admin theme module_* in Magento is:
 === Extra optional is creating an images folder in *_your-theme_* folder ===
  For the {{{custom.css}}} stylesheet I did change some of the default UI icons with others. They are from an iconset named [http://p.yusukekamiyamane.com/ Fugue icons], and made by Yusuke Kamiyamane: exceptionally well-thought-out and crafted icons.
 === Details ===
-  * Current and first version 0.1 March 2011
+  * Current and first version: 0.1 - _March 2011_
 by [http://www.atelierbramdehaan.nl/ Atelier Bram de Haan]
