@@ -1,4 +1,4 @@
-#summary Sample of current version of {{{custom.css}}}
+#summary Sample of current version of ,custom.css,
 #labels Featured
 
 = {{{custom-0.1.css}}} =
@@ -318,4 +318,4 @@ ul.tabs-horiz li a.active {
 }}}
 === Details ===
   * Current and first version: 0.1 - March 2011
-by [http:www.atelierbramdehaan.nl/ Atelier Bram de Haan]
+by [http//:www.atelierbramdehaan.nl/ Atelier Bram de Haan]
