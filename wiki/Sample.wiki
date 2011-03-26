@@ -317,5 +317,6 @@ ul.tabs-horiz li a.active {
     }
 }}}
 === Details ===
+  * [Docs Tutorial doc]
   * Current and first version: 0.1 - March 2011
 by [http://www.atelierbramdehaan.nl/ Atelier Bram de Haan]
